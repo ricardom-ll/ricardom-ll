@@ -8,7 +8,7 @@
 
 | Proyecto        | Descripción                                      | Tecnologías       | Estado        |
 | --------------- | ------------------------------------------------ | ----------------- | ------------- |
-| [zSHOP](/zSHOP) | Proyecto ASIR asignatura IAW | PHP, JS, HTML, CSS, MySQL | ✅ Completado |
+| [zSHOP](/zShop) | Proyecto ASIR asignatura IAW | PHP, JS, HTML, CSS, MySQL | ✅ Completado |
 | [Proyecto 2](link_proyecto_2) | Aplicación de salud para seguimiento de entrenamientos. | Flutter, Node.js  | ✅ Completado  |
 
 ## 🚀 Tecnologías que uso
