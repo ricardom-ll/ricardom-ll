@@ -1,10 +1,8 @@
-# 🌟 [Nombre del Repositorio] 🌟
+# 🌟 Hola, mi nombre es Ricardo López Lucas 🌟
 
-> ¡Bienvenido a mi repositorio de desarrollo de aplicaciones móviles! 🚀 Aquí encontrarás mis proyectos, ideas y experimentos en el mundo del desarrollo de apps.
+## Técnico en Administración de Sistemas Informáticos en Red
 
-![Status](https://img.shields.io/badge/status-en%20progreso-blue)
-![Issues](https://img.shields.io/github/issues/[tu-usuario]/[tu-repositorio])
-![License](https://img.shields.io/github/license/[tu-usuario]/[tu-repositorio])
+> ¡Bienvenido a mi repositorio! 🚀 Aquí encontrarás mis proyectos, ideas y experimentos en el mundo de la informáticas.
 
 ## 📱 Proyectos Destacados
 
@@ -15,14 +13,10 @@
 
 ## 🚀 Tecnologías que uso
 
-- **Lenguajes:** JavaScript, TypeScript, Dart
-- **Frameworks:** React Native, Flutter
-- **Bases de datos:** Firebase, MongoDB
-- **Herramientas:** Git, GitHub, VSCode, Xcode, Android Studio
-
-## 📝 Blog y Recursos
-
-📖 [Mi blog](link_blog) - Comparto artículos sobre desarrollo móvil y tips útiles.
+- **Lenguajes:** PHP, JavaScript, HTML, CSS
+- **Frameworks:** 
+- **Bases de datos:** MySQL, MariaDB, PHPmyadmin
+- **Herramientas:** Git, GitHub, VSCode
 
 ## 💡 Cómo contribuir
 
@@ -38,8 +32,8 @@ Si tienes alguna idea, mejora o corrección, siéntete libre de abrir un [issue]
 
 Si quieres saber más o colaborar, puedes contactarme a través de:
 
-- **Email:** tu-email@ejemplo.com
-- **LinkedIn:** [Mi perfil](link_linkedin)
+- **Email:** ricardolopezlucas16@gmail.com
+- **LinkedIn:** [Mi perfil](www.linkedin.com/in/ricardolopezlucas)
 
 ---
 
