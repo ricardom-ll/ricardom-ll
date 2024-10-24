@@ -8,7 +8,7 @@
 
 | Proyecto        | Descripción                                      | Tecnologías       | Estado        |
 | --------------- | ------------------------------------------------ | ----------------- | ------------- |
-| [Proyecto 1](link_proyecto_1) | App para gestionar tareas de manera eficiente. | React Native, Firebase | 🚧 En desarrollo |
+| [zSHOP](ricardom-ll/zSHOP) | Proyecto ASIR asignatura IAW | PHP, JS, HTML, CSS, MySQL | ✅ Completado |
 | [Proyecto 2](link_proyecto_2) | Aplicación de salud para seguimiento de entrenamientos. | Flutter, Node.js  | ✅ Completado  |
 
 ## 🚀 Tecnologías que uso
